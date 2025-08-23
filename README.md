@@ -2,7 +2,7 @@
 
 ## [C++](https://github.com/yokxxh/Portfolio/tree/main/C%2B%2B)
 
-### It contains some C++ programs, with no specific topic.
+### It contains some C++ programs, relating to various topics.
 
 ## Notebooks
 ## [Python](https://github.com/yokxxh/Portfolio/tree/main/Notebooks/Python)
