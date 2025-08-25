@@ -29,7 +29,7 @@ bool choice()
 }
 
 double calc(double c, double r, int t, bool cond)
-{
+{            // c=capital, r=interest rate, t=time period, cond=isFutureValue 
 if(cond)
 {
     return c * (pow((1 + r), t));
@@ -51,5 +51,6 @@ int main(){
     std::cout << "\nThe value is " << calc(capital,rate,time,ch);
 
     return 0;
+
 
 }
