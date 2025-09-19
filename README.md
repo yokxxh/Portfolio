@@ -38,7 +38,7 @@ I am passionate about coding and problem-solving. These projects represent my jo
 
 ## 💬 Let's Connect
 
-* [LinkedIn](https://www.linkedin.com/in/yokxxhn10)
+* [LinkedIn](https://in.linkedin.com/in/yokxxhn10)
 * [Email](mailto:yokeshnagaraj10@gmail.com)
 
 
